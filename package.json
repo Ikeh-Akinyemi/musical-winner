@@ -1,0 +1,26 @@
+{
+  "name": "musical-winner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "html-pdf-node": "^1.0.8",
+    "install": "^0.13.0",
+    "jspdf": "^2.5.2",
+    "node-latex": "^3.1.0",
+    "npm": "^10.9.1",
+    "pdf-lib": "^1.17.1",
+    "pdfkit": "^0.15.1",
+    "pdfkit-table": "^0.1.99",
+    "pdfmake": "^0.2.15",
+    "perf_hooks": "^0.0.1",
+    "puppeteer": "^23.10.1"
+  }
+}
